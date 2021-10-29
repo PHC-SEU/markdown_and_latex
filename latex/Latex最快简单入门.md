@@ -45,8 +45,8 @@ E=MC^2
 >
 > * overleaf编辑示意图
 >
-> ![overleaf编辑示意图](C:\Users\PengH\phw_mail_hfut_edu\OneDrive - mail.hfut.edu.cn\图片\项目图\Latex效果演示.PNG "overleaf编辑示意图")
+> ![overleaf编辑示意图](Latex效果演示.PNG "overleaf编辑示意图")
 >
 > * PDF演示效果图
 >
-> ![PDF演示效果图](C:\Users\PengH\phw_mail_hfut_edu\OneDrive - mail.hfut.edu.cn\图片\项目图\PDF版本.PNG "PDF演示效果图")
+> ![PDF演示效果图](PDF版本.PNG "PDF演示效果图")

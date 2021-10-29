@@ -1,0 +1,2 @@
+# markdown_and_latex
+这是一个有关markdown和latex快速入门教程的文档

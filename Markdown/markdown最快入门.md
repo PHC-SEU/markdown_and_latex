@@ -1,14 +1,14 @@
 # markdown最快入门
 
 * 简介：markdown是一种轻量级标记语言，它允许人们使用易读易写的纯文本格式编写文档，现在越来越多的人都会使用markdown来撰写github、博客、课堂笔记等实时性文档，markdown编写的文档后缀名为.md,.markdown。
-* 工具：txt文本文档，[VScode]([Visual Studio Code - Code Editing. Redefined](https://code.visualstudio.com/))，[Typora](https://www.typora.io/)，[在线编辑器](https://c.runoob.com/front-end/712)
+* 工具：txt文本文档，[VScode](https://code.visualstudio.com/)，[Typora](https://www.typora.io/)，[在线编辑器](https://c.runoob.com/front-end/712)
 * 说明：本文使用的markdown工具为Typora
 
 ---
 
 ## 一、标题
 
-使用**“#+空格+文字”**的形式来表示1-6级标题，一级标题对应一个**#**，二级标题对应两个**#**，以此类推。
+使用 **"#+空格+文字"** 的形式来表示1-6级标题，一级标题对应一个 **#**，二级标题对应两个 **#**，以此类推。
 
 * 代码演示
 
@@ -21,7 +21,7 @@
 
 * 效果演示
 
-  ![标题效果展示](C:\Users\PengH\phw_mail_hfut_edu\OneDrive - mail.hfut.edu.cn\图片\markdown效果演示\标题.PNG '标题效果展示')
+  ![标题效果展示](东南大学欢迎你-迎新.jpg '标题效果展示')
 
   ---
 
